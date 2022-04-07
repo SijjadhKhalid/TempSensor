@@ -1,2 +1,4 @@
 # TempSensor
-Temp sensor code for M5Stack 
+Displays temperature on M5stack screen and tells user when desired temp is reached 
+
+Worked with temp sensor 
